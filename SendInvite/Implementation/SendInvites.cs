@@ -35,12 +35,6 @@ namespace SendInvite.Implementation
         }
     }
 
-    internal class ValidDTO
-    {
-        public int Status { get; set; }
-        public string Message { get; set; }
-    }
-
     internal class Validates
     {
         private const int apiid = 4;

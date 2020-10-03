@@ -7,3 +7,5 @@ SendInvite/.vs/SendInvite/v16/Server/sqlite3/storage.ide-wal
 SendInvite/.vs/SendInvite/v16/Server/sqlite3/storage.ide-shm
 SendInvite/.vs/SendInvite/v16/TestStore/0/000-0000.testlog
 SendInvite/.vs/SendInvite/v16/TestStore/0/testlog.manifest
+/SendInvite/obj/Debug/netcoreapp3.1/SendInvite.AssemblyInfo.cs
+/SendInvite/obj/Debug/netcoreapp3.1/SendInvite.AssemblyInfoInputs.cache
